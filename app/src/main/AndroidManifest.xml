@@ -18,7 +18,7 @@
         <activity
             android:name=".MainActivity"
             android:exported="true"
-            android:label="@string/text_class"
+            android:label="@string/text_name"
             android:theme="@style/Theme_UP_z3_1">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
