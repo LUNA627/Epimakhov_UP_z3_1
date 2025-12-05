@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Epimakhov_UP_z3_1</string>
+    <string name="text_title">Добро пожаловать!</string>
+    <string name="text_class">MainActivity</string>
+</resources>
